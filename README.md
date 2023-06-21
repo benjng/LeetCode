@@ -7,4 +7,4 @@ A repo for my LeetCode exercises solutions.
 
 ### Add Two Numbers
 - [Question URL](https://leetcode.com/problems/add-two-numbers/description/)
-- [Link to my solution](https://leetcode.com/problems/add-two-numbers/description/)
+- [Link to my solution](https://github.com/benjng/LeetCode/blob/main/AddTwoNumbers.cs)
