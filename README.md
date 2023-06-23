@@ -11,4 +11,4 @@ A repo for my LeetCode exercises solutions.
 
 ### Array With Elements Not Equal to Average of Neighbors
 - [Link to the question](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/description/)
-- [Link to my solution](https://github.com/benjng/LeetCode/blob/main/AddTwoNumbers.cs)
+- [Link to my solution](https://github.com/benjng/LeetCode/blob/main/ArrayWithElementsNotEqualtoAverageofNeighbors.cs)
