@@ -16,3 +16,7 @@ A repo for my LeetCode exercises solutions.
 ### Seat Reservation Manager
 - [Link to the question](https://leetcode.com/problems/seat-reservation-manager/description/)
 - [Link to my solution](https://github.com/benjng/LeetCode/blob/main/SeatReservationManager.cs)
+
+### Find Kth Bit in Nth Binary String
+- [Link to the question](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/)
+- [Link to my solution](https://github.com/benjng/LeetCode/blob/main/FindKthBitinNthBinaryString.cs)
