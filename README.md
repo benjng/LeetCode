@@ -24,3 +24,7 @@ A repo for my LeetCode exercises solutions.
 ### Integer Replacement
 - [Link to the question](https://leetcode.com/problems/integer-replacement/description/)
 - [Link to my solution](https://github.com/benjng/LeetCode/blob/main/IntegerReplacement.cs)
+
+### Find All Duplicates in an Array
+- [Link to the question](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
+- [Link to my solution](https://github.com/benjng/LeetCode/blob/main/FindAllDuplicatesInAnArray.cs)
